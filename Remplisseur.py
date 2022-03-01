@@ -10,7 +10,7 @@ with open("texte.txt", "r", encoding="utf-8") as f:
 for li in lignes:
     for char in li:
         texte_bin += bin(ord(char))[2:].zfill(16)
-print(len(texte_bin))
+print(len(texte_bin), "bits à injecter.")
 
 # On charge et prépare l'image
 pixels = image.load()
