@@ -1,2 +1,2 @@
-# steganographie
-Petits programmes de steganographie concoctés après avoir vu cette vidéo: https://www.youtube.com/watch?v=TWEXCYQKyDc
+# [🇫🇷 Documentation en français 🇫🇷](https://github.com/reza0310/Stéganographie/blob/main/README.fr.md)
+# [🇺🇸 English documentation 🇬🇧](https://github.com/reza0310/Stéganographie/blob/main/README.en.md)
