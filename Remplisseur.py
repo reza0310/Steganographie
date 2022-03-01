@@ -48,5 +48,6 @@ while len(texte_bin) != 0:
     if y == height:
         x += 1
         y = 0
+print(y+x*height, "pixels remplis. Communiquez ce chiffre à votre correspondant pour qu'il le rentre dans le videur.")
 # Une fois sortis de la boucle, le texte est complétement injecté donc on peut sauvegarder.
 image.save("image_remplie.png")
