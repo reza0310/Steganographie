@@ -4,7 +4,7 @@ from PIL import Image
 image = Image.open("image_remplie.png")
 texte_bin = ""
 texte = ""
-taille = int(input("On lit combien de pixels? Je recommande 1000 si vous savez vraiment pas. "))
+taille = int(input("On lit combien de pixels? Je recommande 1000 si vous savez vraiment pas. "))+2
 
 # On charge l'image et sa taille
 pixels = image.load()
